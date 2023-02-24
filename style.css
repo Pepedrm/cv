@@ -1,0 +1,19 @@
+
+body{
+    background-color: #B7C4CF
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 15%;
+    
+}
+*{
+    text-align: center;
+}
+.Entrada{
+    background-color: #EEE3CB;
+    text-align: left
+}
